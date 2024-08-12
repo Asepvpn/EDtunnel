@@ -5,13 +5,13 @@ name = "server-sg1" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.ab3nk.xyz"
+pattern = "sg1.daff4net-vpn.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.sg1.ab3nk.xyz"
+pattern = "support.zoom.us.sg1.daff4net-vpn.my.id"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.sg1.ab3nk.xyz"
+pattern = "investors.spotify.com.sg1.daff4net-vpn.my.id"
 custom_domain = true
 
 [vars]
